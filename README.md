@@ -25,7 +25,7 @@ configuration of my systems.
 * Editor: (Neo)Vim, but [Doom emacs](https://github.com/hlissner/doom-emacs)
   looks shiny
 * Interested in compilers, high performance, systems programming
-* Contact info: 
+* Contact info:
   * [email](mailto:contact-github@belanyi.fr)
   * [Matrix](https://matrix.to/#/@ambroisie:belanyi.fr)
   * others: can be found on the footer of my blog.
