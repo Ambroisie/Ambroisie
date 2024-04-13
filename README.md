@@ -2,8 +2,8 @@
 
 Hello there, I'm Bruno.
 
-This GitHub profile is merely a mirror for my self-hosted [Gitea
-instance](https://gitea.belanyi.fr). This is done automatically using
+This GitHub profile is merely a mirror for my self-hosted [Forgejo
+instance](https://git.belanyi.fr). This is done automatically using
 [Lohr](https://github.com/alarsyo/lohr).
 
 You can find my blog [here](https://belanyi.fr), and my CV
